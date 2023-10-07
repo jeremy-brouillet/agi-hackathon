@@ -1,0 +1,7 @@
+Project 3: Apple Autonomous Electric Vehicle (AEV)
+Description: Apple's AEV project aims to create a fully autonomous electric vehicle with cutting-edge AI and battery technology. This vehicle will prioritize safety, sustainability, and user experience, featuring self-driving capabilities, long-range electric power, and a state-of-the-art infotainment system.
+OKRs:
+	•	Objective: Revolutionize personal transportation with the AEV.
+	•	Key Result 1: Achieve SAE Level 5 autonomy in AEV.
+	•	Key Result 2: Develop a battery with a range of 500 miles per charge.
+	•	Key Result 3: Launch AEV in at least 10 major global markets within five years.

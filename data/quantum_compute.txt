@@ -1,0 +1,7 @@
+Project 2: Apple Quantum Computing
+Description: Apple is working on quantum computing solutions that promise to revolutionize computation speed and cryptography. By harnessing the power of quantum bits (qubits), Apple's quantum computers will solve complex problems in seconds, leading to breakthroughs in drug discovery, materials science, and encryption.
+OKRs:
+	•	Objective: Lead in quantum computing technology.
+	•	Key Result 1: Develop a 128-qubit quantum processor.
+	•	Key Result 2: Establish partnerships with leading research institutions for quantum algorithm development.
+	•	Key Result 3: Provide quantum computing cloud services to 100 major enterprises within two years.

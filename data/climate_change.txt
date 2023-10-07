@@ -1,0 +1,7 @@
+Project 8: Apple Terraform - Climate Change Mitigation
+Description: Apple Terraform is a project focused on combating climate change. It involves large-scale reforestation efforts, carbon capture technologies, and sustainable agriculture practices to reduce carbon emissions and promote biodiversity.
+OKRs:
+	•	Objective: Lead in climate change mitigation efforts.
+	•	Key Result 1: Plant 10 million trees in deforested areas worldwide.
+	•	Key Result 2: Achieve a carbon-neutral supply chain by 2030.
+	•	Key Result 3: Invest in and support sustainable agriculture practices in 20 countries.

@@ -1,0 +1,7 @@
+Project 5: Apple EcoSphere - Sustainable Smart Cities
+Description: Apple's EcoSphere initiative focuses on building sustainable, smart cities powered by renewable energy sources. It aims to integrate Apple's technology into urban infrastructure, creating energy-efficient homes, intelligent transportation systems, and green spaces.
+OKRs:
+	•	Objective: Create sustainable smart cities with EcoSphere.
+	•	Key Result 1: Implement solar-powered charging stations in 500 cities worldwide.
+	•	Key Result 2: Reduce carbon footprint of Apple buildings and data centers by 50%.
+	•	Key Result 3: Partner with city governments to launch pilot EcoSphere cities in three continents.

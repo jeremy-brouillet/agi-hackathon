@@ -1,0 +1,7 @@
+Project 7: Apple Sustainable Materials Initiative
+Description: Apple is committed to sustainability and is working on a project to develop cutting-edge materials for its products. This initiative aims to replace traditional plastics and metals with sustainable alternatives, reducing the environmental impact of Apple's products.
+OKRs:
+	•	Objective: Lead the industry in sustainable materials usage.
+	•	Key Result 1: Develop a biodegradable smartphone casing material.
+	•	Key Result 2: Eliminate the use of rare earth metals in Apple devices.
+	•	Key Result 3: Ensure that 90% of Apple products use recyclable or renewable materials within five years.
